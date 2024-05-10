@@ -15,5 +15,5 @@ stoppested:forvaltningsdatabasen
 "@en ;
     dct:publisher   <https://organization-catalogue.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;https://staging.fellesdatakatalog.digdir.no/organizations/311046349
 
-    dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>
-    dct:identifier  "https://https://stoppested.entur.org/";
+    dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
+    dct:identifier  "https://https://stoppested.entur.org/".
