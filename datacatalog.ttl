@@ -8,6 +8,6 @@ stoppested:forvaltningsdatabasen
     rdf:type        dcat:Dataset ;
     dct:title       "Norsk stoppestedregister"@nb, "National Stop Registry"@en ;
     dct:description "National Stop Register (NSR) is the master database for public transport stops in Norway and is primarily used to store and redistribute detailed information regarding the infrastructure of a stop place."@nb, "National Stop Register (NSR) is the master database for public transport stops in Norway and is primarily used to store and redistribute detailed information regarding the infrastructure of a stop place."@en ;
-    dct:publisher   <https://organization-catalogue.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;
+    dct:publisher   <https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;
     dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
     dct:identifier  "https://https://stoppested.entur.org/".
