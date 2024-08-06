@@ -15,8 +15,8 @@ products:national_stop_registry
     dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
     dct:identifier  "https://stoppested.entur.org/".
 
-<https://data.entur.org/> rdf:type dcat:Catalog ;
-  dcat:dataset <https://data.entur.no/domain/public-transport-data/product/ener> .
+<https://data.entur.no/> rdf:type dcat:Catalog ;
+  dcat:dataset <https://data.entur.no/domain/public-transport-data/product/energy_emissions> .
 
 products:energy_emissions
     rdf:type        dcat:Dataset ;
