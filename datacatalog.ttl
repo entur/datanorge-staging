@@ -5,7 +5,7 @@
 @prefix products: <https://data.entur.no/domain/public-transport-data/product/> .
 
 <https://data.entur.no/> rdf:type dcat:Catalog ;
-  dcat:dataset <https://data.entur.no/domain/public-transport-data/product/national_stop_registry> .
+  dcat:dataset products:national_stop_registry .
 
 products:national_stop_registry
     rdf:type        dcat:Dataset ;
@@ -16,7 +16,7 @@ products:national_stop_registry
     dct:identifier  "https://stoppested.entur.org/".
 
 <https://data.entur.no/> rdf:type dcat:Catalog ;
-  dcat:dataset <https://data.entur.no/domain/public-transport-data/product/energy_emissions> .
+  dcat:dataset products:energy_emissions .
 
 products:energy_emissions
     rdf:type        dcat:Dataset ;
