@@ -4,7 +4,7 @@
 
 @prefix products: <https://data.entur.no/domain/public-transport-data/product/> .
 
-<https://data.entur.org/> rdf:type dcat:Catalog ;
+<https://data.entur.no/> rdf:type dcat:Catalog ;
   dcat:dataset <https://data.entur.no/domain/public-transport-data/product/national_stop_registry> .
 
 products:national_stop_registry
@@ -14,3 +14,4 @@ products:national_stop_registry
     dct:publisher   <https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;
     dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
     dct:identifier  "https://stoppested.entur.org/".
+
