@@ -1,0 +1,5 @@
+[{
+	"datatype": "dataset",
+	"url": "https://raw.githubusercontent.com/entur/datanorge/main/datacatalog.ttl",
+	"acceptHeaderValue": ["text/turtle"] 
+}]
