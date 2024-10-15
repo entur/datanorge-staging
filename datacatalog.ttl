@@ -9,7 +9,7 @@
 
 products:national_stop_registry_staging
     rdf:type        dcat:Dataset ;
-    dct:title       "Norsk stoppestedregister"@nb, "National Stop Registry"@en ;
+    dct:title       "Norsk stoppestedregister staging"@nb, "National Stop Registry staging"@en ;
     dct:description "National Stop Register (NSR) is the master database for public transport stops in Norway and is primarily used to store and redistribute detailed information regarding the infrastructure of a stop place."@nb, "National Stop Register (NSR) is the master database for public transport stops in Norway and is primarily used to store and redistribute detailed information regarding the infrastructure of a stop place."@en ;
     dct:publisher   <https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;
     dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
@@ -20,7 +20,7 @@ products:national_stop_registry_staging
 
 products:energy_emissions_staging
     rdf:type        dcat:Dataset ;
-    dct:title       "Planlagte utslipp"@nb, "Planned Emissions"@en ;
+    dct:title       "Planlagte utslipp staging"@nb, "Planned Emissions staging"@en ;
     dct:description "This data product is based on timetable data from GTFS, both historic and expected trips, and estimated emissons calculated by Sintefs Energy module. This data is public"@en ;
     dct:publisher   <https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/311046349> ;
     dcat:theme      <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
